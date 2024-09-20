@@ -1,0 +1,19 @@
+
+# ignore the venv directory
+venv/
+# ignore the .vscode directory
+.vscode/
+# ignore the .idea directory
+.idea/
+# ignore the .env file
+.env
+# ignore database files
+*.sqlite3
+# ignore the data directory
+data/
+
+# ignore dataset directory
+dataset/
+
+# ignore
+
